@@ -1,0 +1,2 @@
+# Data_Analytics_Project_Customer_Segmentation
+Data Analytic Project on Customer Segmentation
