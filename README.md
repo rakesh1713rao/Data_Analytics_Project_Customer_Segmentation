@@ -7,4 +7,4 @@ The Purpose of this project is to conduct a Customer Segmentation Analysis for a
 
 
 This is a project is made for practice.
-Source link : https://github.com/AbhishekGit-hash/Data-Analytics-Customer-Segmentation
+
